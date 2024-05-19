@@ -10,5 +10,5 @@
 | 🚀 | Website + URL           | 
 | - |:-------------|
 | 1 | [Data Lemur](https://github.com/nmowens95/SQL-Practice/tree/main/Data_Lemur) | 
-| 2 | [Leetcode] | 
+| 2 | [Leetcode](https://github.com/nmowens95/SQL-Practice/tree/main/Leetcode-SQL_50)| 
 | 3 | [Hackerrank]  |
